@@ -144,3 +144,6 @@ with open('cuda_code.cu', 'w') as f:
 !nvcc -o cuda_program cuda_code.cu
 # Execute the compiled program
 !./cuda_program
+
+
+jkhjklghjkjhkgkghjkgjkghkgjkghkgkjkghgj
